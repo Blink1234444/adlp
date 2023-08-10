@@ -1,0 +1,76 @@
+body
+{
+	background-image: url("GettyImages-141863454-939d13a.jpg");
+    font-family: Times, serif;
+    color: #0c0a0d;
+    font-weight: 600;
+}
+h1{
+    background-color: rgb(181, 145, 214);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: #a690eaaa;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+body
+{
+	background-image: url("GettyImages-141863454-939d13a.jpg");
+    font-family: Times, serif;
+    color: #0c0a0d;
+    font-weight: 600;
+}
+h1{
+    background-color: rgb(181, 145, 214);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: #a690eaaa;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(127, 62, 157);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+button{
+    background:#a690eaaa;
+    color:#0c0a0d;
+    border-color: #3b2b50;
+}
+label{
+	background: #a690eafc;
+}
+h2{
+	background: #a690eaaa;
+}
+
+
+
+
+
